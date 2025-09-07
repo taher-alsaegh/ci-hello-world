@@ -26,4 +26,4 @@ jobs:
         run: pytest -q
 	
       - name: Run Linter
-	run: flake8 .
+        run: flake8 .
